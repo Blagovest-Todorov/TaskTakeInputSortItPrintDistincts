@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\bin\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.exe
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\bin\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\bin\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\bin\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\bin\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.dll
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\bin\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\obj\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\obj\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\obj\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\obj\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.dll
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\obj\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\14.TaskShorsWordsSortedusingLinq\obj\Debug\netcoreapp3.1\14.TaskShorsWordsSortedusingLinq.genruntimeconfig.cache
